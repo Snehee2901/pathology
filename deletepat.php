@@ -109,13 +109,13 @@
     </form>
 </div>
 <br><br>
-     <footer class="footer">
+      <footer class="footer">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
                     <h2>About Us</h2>
                     <p>
-                        AK Pharma is a leading pharma company at which we provide the patients with maximum facilities and reducing expenses. 
+                        A One Labs is a leading pharma company at which we provide the patients with maximum facilities and reducing expenses. 
                     </p>
                     <p>We focus on technologies that promise to reduce costs, streamline processes and speed time-to-market, Backed by our strong quality processes and rich experience managing global pharmacy. </p>
                 </div>
@@ -136,8 +136,8 @@
                         Marthandam (K.K District) <br>
                         Tamil Nadu, IND <br>
                         Phone: +91 9159669599 <br>
-                        Email: <a href="mailto:info@anybiz.com" class="">akpharma@bluedart.in</a><br>
-                        Web: <a href="#" class="">www.akpharma.in</a>
+                        Email: <a href="mailto:info@anybiz.com" class="">aonelabs@bluedart.in</a><br>
+                        Web: <a href="#" class="">www.aonelabs.in</a>
                     </address>
 
                 </div>
@@ -146,7 +146,6 @@
         
 
     </footer>
-
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>

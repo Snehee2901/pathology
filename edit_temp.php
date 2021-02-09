@@ -126,7 +126,7 @@
                 <div class="col-md-4 col-sm-12">
                     <h2>About Us</h2>
                     <p>
-                        AK Pharma is a leading pharma company at which we provide the patients with maximum facilities and reducing expenses. 
+                        A One Labs is a leading pharma company at which we provide the patients with maximum facilities and reducing expenses. 
                     </p>
                     <p>We focus on technologies that promise to reduce costs, streamline processes and speed time-to-market, Backed by our strong quality processes and rich experience managing global pharmacy. </p>
                 </div>
@@ -147,8 +147,8 @@
                         Marthandam (K.K District) <br>
                         Tamil Nadu, IND <br>
                         Phone: +91 9159669599 <br>
-                        Email: <a href="mailto:info@anybiz.com" class="">akpharma@bluedart.in</a><br>
-                        Web: <a href="#" class="">www.akpharma.in</a>
+                        Email: <a href="mailto:info@anybiz.com" class="">aonelabs@bluedart.in</a><br>
+                        Web: <a href="#" class="">www.aonelabs.in</a>
                     </address>
 
                 </div>
