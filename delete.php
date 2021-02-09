@@ -25,7 +25,7 @@
 
         }
          if (isset($_POST['cancel'])) {
-            header("Location: pindex.html");
+            header("Location: dindex.html");
             return ;
         }
     }

@@ -15,10 +15,11 @@
         }
     }
 
-    elseif(isset($_SESSION['did'])) {
+    if(isset($_SESSION['did'])) {
         # code...
         $a = 'dindex.html';
         $y = $_SESSION['did'];
+        echo $y;
         $qry1 = "SELECT * FROM doctor WHERE did='$y'";
         $aa = mysqli_query($conn,$qry1);
         if (mysqli_num_rows($aa)>0) {
@@ -103,13 +104,13 @@
     <form method="POST" action="edit.php">
         <table align="center">
           <tr><td><h5>Name : </h5></td>
-            <td>&nbsp;<input type="text" name="name" required="yes" value="<?php echo $n?>"></td></tr>
+            <td>&nbsp;<input type="text" name="name"  value="<?php echo $n?>"></td></tr>
           <tr><td><br></td></tr>
           <tr><td><h5>Email:</h5></td>
-            <td>&nbsp;<input type="email" name="email" required="yes" value="<?php echo $em?>"></td></tr>
+            <td>&nbsp;<input type="email" name="email"  value="<?php echo $em?>"></td></tr>
           <tr><td><br></td></tr>
           <tr><td><h5>Phone:</h5></td>
-            <td>&nbsp;<input type="number" name="phone" required="yes" value="<?php echo $ph?>"></td></tr>
+            <td>&nbsp;<input type="number" name="phone" value="<?php echo $ph?>"></td></tr>
           <tr><td><br></td></tr>
           <tr><td><h5>Password:</h5></td>
             <td>&nbsp;<input type="password" name="pass" required="yes"></td></tr>
