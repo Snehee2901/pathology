@@ -1,2 +1,2 @@
-# pathology
-Pathology
+# Pathology
+Sample website for any pathology
